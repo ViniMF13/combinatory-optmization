@@ -4,4 +4,6 @@ __pycache__/
 *.pyc
 *.csv
 *.png
+!out/*.png
 .venv/
+.cache/
